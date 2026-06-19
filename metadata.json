@@ -1,0 +1,6 @@
+{
+  "name": "Tehran Run and Gun",
+  "description": "A 16-bit retro side-scrolling action game set in nocturnal Tehran streets. Fight mafia agents, throw grenades, and defeat the Land Cruiser SUV Kingpin!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
